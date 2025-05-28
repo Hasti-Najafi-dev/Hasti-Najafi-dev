@@ -12,7 +12,7 @@
 
 I'm a motivated computer engineering student with a deep interest in AI — especially in **Computer Vision**. I've worked with **Python** at an intermediate-to-advanced level and have hands-on experience with **OpenCV** and **MediaPipe** in personal and academic projects.
 
-My current goal is to pursue a Master's degree in **Artificial Intelligence** with a focus on **Computer Vision**, and I’m actively seeking internship opportunities to gain practical experience in the field.
+My goal is to pursue a Master's degree in **Artificial Intelligence** with a focus on **Computer Vision**, and I’m actively seeking internship opportunities to gain practical experience in the field.
 
 ### 🧰 Tech Stack & Skills
 
