@@ -3,8 +3,10 @@
 
 🎓 Undergraduate Computer Engineering Student at IKIU (Imam Khomeini International University)
 
-🎯 Passionate about Computer Vision and Artificial Intelligence  
+🎯 Passionate about Computer Vision and Artificial Intelligence
+
 🛠️ Skilled in Python | OpenCV | MediaPipe | streamlit
+
 🚀 Actively looking for an internship in CV/AI – Summer 2025
 
 
