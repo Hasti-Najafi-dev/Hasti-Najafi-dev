@@ -4,7 +4,7 @@
 🎓 Undergraduate Computer Engineering Student at IKIU (Imam Khomeini International University)
 
 🎯 Passionate about Computer Vision and Artificial Intelligence  
-🛠️ Skilled in Python | OpenCV | MediaPipe  
+🛠️ Skilled in Python | OpenCV | MediaPipe | streamlit
 🚀 Actively looking for an internship in CV/AI – Summer 2025
 
 
@@ -18,7 +18,7 @@ My goal is to pursue a Master's degree in **Artificial Intelligence** with a foc
 
 - 🐍 Python (Intermediate–Advanced)
 - 🎥 OpenCV
-- ✋ MediaPipe
+- ✋ MediaPipe & streamlit
 - 📈 NumPy, Matplotlib
 - 💻 Git & GitHub
 
