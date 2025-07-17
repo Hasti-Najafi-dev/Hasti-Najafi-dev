@@ -18,7 +18,7 @@ My goal is to pursue a Master's degree in **Artificial Intelligence** with a foc
 
 ### 🧰 Tech Stack & Skills
 
-- 🐍 Python (Intermediate–Advanced)
+- 🐍 Python (Intermediate)
 - 🎥 OpenCV
 - ✋ MediaPipe & streamlit
 - 📈 NumPy, Matplotlib
